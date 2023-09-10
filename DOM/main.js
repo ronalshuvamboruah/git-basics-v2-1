@@ -77,13 +77,13 @@
 
 // DOM Traversal
 
-let body = document.querySelector('body');
+// let body = document.querySelector('body');
 // console.log("This is the parent element");
 // console.log(body.parentElement);
 // console.log("This is the parent node");
 // console.log(body.parentNode);
 
-body.childNodes.forEach(element => console.log(element))
+// body.childNodes.forEach(element => console.log(element),"ll")
 // console.log();
 
 // body.getCh
